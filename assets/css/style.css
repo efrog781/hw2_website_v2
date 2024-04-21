@@ -314,10 +314,16 @@ h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
+
+/*EN chnaged the background pic that was original to the template to a personal picture. 
+After identifying the name of the background pic from the template files, 
+I tried to find the background pic in index but when I did not find it there, 
+I searched the style file and was able to find it*/
+
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right;
+  background: url("../img/pic1.jpg") top right;
   background-size: cover;
   position: relative;
 }
