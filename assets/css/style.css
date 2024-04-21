@@ -606,9 +606,10 @@ section {
 .about .content .count-box a:hover {
   color: #82909c;
 }
+/*EN chnaged the picture in about me section*/
 
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/pic2.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
