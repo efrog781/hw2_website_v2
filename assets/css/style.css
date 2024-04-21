@@ -530,6 +530,7 @@ section {
 
 /*--------------------------------------------------------------
 # About Me
+/*EN chnaged the picture in about me section
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 700;
@@ -606,7 +607,6 @@ section {
 .about .content .count-box a:hover {
   color: #82909c;
 }
-/*EN chnaged the picture in about me section*/
 
 .about .image {
   background: url("../img/pic2.jpg") center center no-repeat;
