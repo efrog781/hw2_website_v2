@@ -203,17 +203,35 @@ All other commments are oriinal to the templates creator
         </div>
     
         <style>
-          .responsive {
-            width: 100%;
-            max-width: 400px;
-            height: auto;
-          }
-          </style>
-      
-          <img src="assets/img/pic3.jpg" alt="Placeholder Pic 1" class="responsive" >
-          <img src="assets/img/pic4.jpg" alt="Placeholder Pic 2" class="responsive" >
-        
-        
+        .image-row {
+          text-align: center;
+      }
+      .image-box {
+          width: 20%;
+          padding: 1%;
+          margin: .5%;
+          display: inline-block;
+          font-size: 0; /* fixes bottom padding */
+      }
+      .image-box img {
+          max-width: 100%;
+      }
+
+    </style>
+
+      <div class="image-row">
+        <div class="image-box">
+            <img src="assets/img/pic3.jpg" />
+        </div>
+        <div class="image-box">
+            <img src="assets/img/pic4.jpg" />
+        </div>
+        <div class="image-box">
+          <img src="assets/img/pic4.jpg" />
+      </div>
+
+    </div>  
+
       </div>
     </section><!-- End My Resume Section -->
 
