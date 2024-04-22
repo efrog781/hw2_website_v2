@@ -184,20 +184,26 @@ All other commments are oriinal to the templates creator
     <section id="resume" class="resume">
       <div class="container">
 
-
-    <!--EN I used this code from W3 Schools to try to make the images responsive: 
-      https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_responsive3
-    I reallt srruggked with the pictures and this was the best I could do. 
-    I intially tried working on the CSS style sheet and copying the format for images used 
-    in previous sections of the tamplate but that did not work so at that point I decided to 
-    write the images in html
-    -->    
-        <div class="section-title">
+         <div class="section-title">
           <span>Our Elopement</span>
           <h2>Our Elopement</h2>
           <p>A few memories from our special day </p>
         </div>
     
+   <!--EN I tried a few different ways to include images in this
+      section, first I tried to copy the image format that was 
+      arelady in another section of the stylesheet but that did not 
+      work, then I tried inserting the images manually in HTML but 
+      that did not work as they were not responsive. Then i tried making 
+      an image carousel from code that I found on Boostrap but the
+      slider functionality didn't work, I imagine it had something to 
+      do with Javascript not being activated but I coudln't figure out 
+      how and where to insert javascript to make the slider work. 
+
+      After a Goodle search "html code to make images align horiznontally and repsonsive",
+      I found the following code (lines 207-233) from Stack Overflow:
+       https://stackoverflow.com/questions/29041359/how-to-make-multiple-images-center-horizontal-and-responsive-using-div
+      -->   
         <style>
         .image-row {
           text-align: center;
@@ -229,7 +235,8 @@ All other commments are oriinal to the templates creator
     </div>  
 
       </div>
-    </section><!-- End My Resume Section -->
+    </section>
+    <!-- End My Resume Section -->
 
 <!--EN deleted 4 sections that were original to the template: Resume, 
   Testimonials, Portfolio, Pricing-->

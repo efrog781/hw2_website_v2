@@ -20,10 +20,15 @@ to go to youtube and user @howtechweb in this youtube video: https://www.youtube
 explained that I needed to copy the files assoicated with the template intot he local folder on my drive 
 ralted to the website project 
 
+Source 4: 
+Stack Overlow 
+https://stackoverflow.com/questions/29041359/how-to-make-multiple-images-center-horizontal-and-responsive-using-div
+I copied this code from Stack Overflow to insert images horiztonally int he Elopement 
+section in what I hoped would be responsive to different media 
 
 My Comments on This Project: 
-While I did use a template and admittedly a lot of the "work" I did was customization, I derived 
-alot of value from going through the tamplate code line-by-line trying t undertsand what each line of 
+While I did use a beautiful template and admittedly a lot of the "work" I did was customization, I derived 
+a lot of value from going through the tamplate code line-by-line trying t undertsand what each line of 
 code was doing and what I would need to remove/cnange in order to get the result thta I wanted. 
 While I think I could have put more effort itnot 
 
