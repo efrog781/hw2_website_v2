@@ -21,3 +21,10 @@ explained that I needed to copy the files assoicated with the template intot he 
 ralted to the website project 
 
 
+My Comments on This Project: 
+While I did use a template and admittedly a lot of the "work" I did was customization, I derived 
+alot of value from going through the tamplate code line-by-line trying t undertsand what each line of 
+code was doing and what I would need to remove/cnange in order to get the result thta I wanted. 
+While I think I could have put more effort itnot 
+
+
